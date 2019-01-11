@@ -1,0 +1,15 @@
+Package: StatComp18033
+Type: Package
+Title: MLE MCMC and quicksort
+Version: 0.1.0
+Date: 2019-01-06
+Author: Xiao Lin
+Maintainer: Xiao Lin <hhooppee@mail.ustc.edu.cn>
+Description: Several R function are included in this package. Some function must write specific function as parameter.
+License: GPL (>= 2)
+Imports: nloptr, microbenchmark, knitr, rmarkdown,bootstrap,DAAG,boxplotdbl,Ball,energy,RANN,MASS,VGAM,boot,lattice,DirichletReg
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: http://github.com/Hope0/StatComp18033
+BugReports: http://github.com/Hope0/StatComp18033/issues
+Encoding: UTF-8
