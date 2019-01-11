@@ -4,7 +4,7 @@ author: "18033"
 date: "2019.01.10"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Introduction to StatComp18026}
+  %\VignetteIndexEntry{Introduction to StatComp18033}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
